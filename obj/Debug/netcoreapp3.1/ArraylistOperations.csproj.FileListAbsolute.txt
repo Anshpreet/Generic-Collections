@@ -1,0 +1,13 @@
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\bin\Debug\netcoreapp3.1\ArraylistOperations.exe
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\bin\Debug\netcoreapp3.1\ArraylistOperations.deps.json
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\bin\Debug\netcoreapp3.1\ArraylistOperations.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\bin\Debug\netcoreapp3.1\ArraylistOperations.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\bin\Debug\netcoreapp3.1\ArraylistOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\bin\Debug\netcoreapp3.1\ArraylistOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.dll
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.pdb
+C:\Users\Anshpreet kaur\source\repos\ArraylistOperations\obj\Debug\netcoreapp3.1\ArraylistOperations.genruntimeconfig.cache
